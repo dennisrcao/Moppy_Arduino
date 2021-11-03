@@ -1,0 +1,1 @@
+Using an Arduino, you can command an array of floppy drives with a musical keyboard. The head on each floppy drive is controlled by a stepper motor which will be triggered at musical intervals. 
